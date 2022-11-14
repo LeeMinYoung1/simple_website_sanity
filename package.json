@@ -13,6 +13,7 @@
     "@sanity/image-url": "^1.0.1",
     "@stripe/stripe-js": "^1.42.0",
     "body-parser": "^1.20.1",
+    "canvas-confetti": "^1.6.0",
     "fs": "^0.0.1-security",
     "next": "13.0.0",
     "next-sanity": "^1.0.3",
@@ -21,7 +22,8 @@
     "react-hot-toast": "^2.4.0",
     "react-icons": "^4.6.0",
     "react-tinder-card": "^1.6.1",
-    "stripe": "^10.15.0"
+    "stripe": "^10.15.0",
+    "vercel": "^28.4.17"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.18.6",
